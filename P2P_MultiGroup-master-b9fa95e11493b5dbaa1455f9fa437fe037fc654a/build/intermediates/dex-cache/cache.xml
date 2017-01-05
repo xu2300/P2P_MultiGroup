@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\junweixu\Desktop\program\P2P_MultiGroup\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1921dc840d00d291fb067d897dd6aa76bec261aa">
+        <dex dex="C:\Users\junweixu\Desktop\program\P2P_MultiGroup\app\build\intermediates\pre-dexed\debug\instant-run_4ad2b5a15af24c5e1b6858c5c7f8930828a19a2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\junweixu\Desktop\program\P2P_MultiGroup\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fb2980d6357259c787f2033a7a5f5c7ec56c3aaa">
+        <dex dex="C:\Users\junweixu\Desktop\program\P2P_MultiGroup\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_50573ab0742c0c2bf1a7b7f1c36e815afcac7b1c.jar" />
+    </item>
+
+</items>

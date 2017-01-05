@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\junweixu\\Desktop\\program\\P2P_MultiGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_on_off.png",
+        "source": "C:\\Users\\junweixu\\Desktop\\program\\P2P_MultiGroup\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_on_off.png"
+    },
+    {
+        "merged": "C:\\Users\\junweixu\\Desktop\\program\\P2P_MultiGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\junweixu\\Desktop\\program\\P2P_MultiGroup\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\junweixu\\Desktop\\program\\P2P_MultiGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_discover.png",
+        "source": "C:\\Users\\junweixu\\Desktop\\program\\P2P_MultiGroup\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_discover.png"
+    }
+]
